@@ -1,3 +1,4 @@
 # GitDemo
-This is Git Demo
-Moynul
+This is my first Git Demo Repository
+<be>
+Author --Moynul Islam
